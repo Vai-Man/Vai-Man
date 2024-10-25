@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I’m Vaibhav, also known as VaiMan or Meteor. I’m a student from India with a passion for Computer Science.</h2>
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/31988724/130261151-752ea87e-3adc-4788-a126-2a183d9a8ca9.gif"  />
 
 ###
 
