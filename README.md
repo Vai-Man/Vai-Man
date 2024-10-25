@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! I’m Vaibhav, also known as VaiMan or Meteor. I’m a student from India with a passion for Computer Science.</h2>
 
+###
+
 <img align="right" height="150" src="https://user-images.githubusercontent.com/31988724/130261151-752ea87e-3adc-4788-a126-2a183d9a8ca9.gif"  />
 
 ###
@@ -56,14 +58,28 @@
 
 ###
 
+<div align="left">
+  <a href="vaibhav[dot]manihar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="http://discordapp.com/users/1010416185675874385" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vaiman/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <br clear="both">
 
-<img src="" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vai-man/vai-man/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="?"  />
+  <img src="https://profile-counter.glitch.me/vai-man/count.svg?"  />
 </div>
 
 ###
@@ -75,8 +91,3 @@
 </div>
 
 ###
-
-<!---
-Vai-Man/Vai-Man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
