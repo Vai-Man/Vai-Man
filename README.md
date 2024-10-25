@@ -49,6 +49,7 @@
 
 <hr/>
 
+[![An image of @vaiman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaiman)](https://holopin.io/@vaiman)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4001&pause=1000&color=7D11F7&center=true&width=500&height=70&lines=Thank+you+for+visiting!+%F0%9F%98%83" />
