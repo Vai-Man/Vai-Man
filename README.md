@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=vai-man" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4001&pause=1000&center=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;+I%E2%80%99m+Vaibhav+Manihar!;aka+VaiMan+or+Meteor+%3A))" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4001&pause=1000&center=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;+I%E2%80%99m+Vaibhav+Manihar!;aka+VaiMan+or+Meteor+%3A)" />
 </h1>
 
 <h3 align="center">I’m a student from India with a passion for Computer Science.</h3>
