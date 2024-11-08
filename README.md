@@ -17,8 +17,6 @@ I’m passionate about building innovative solutions, with a strong focus on `co
     <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
----
-
 <!---
 Vai-Man/Vai-Man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
