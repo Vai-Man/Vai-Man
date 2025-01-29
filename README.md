@@ -14,7 +14,7 @@ I’m passionate about building innovative solutions, with a strong focus on `co
     <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/vaiman/" target="_blank">
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img src="https://github.com/user-attachments/assets/32aa4029-3b38-4306-8a09-00903be67437" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 <!---
