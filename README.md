@@ -10,7 +10,7 @@ I’m passionate about building innovative solutions, with a strong focus on `co
   <a href="mailto:vaibhav[dot]manihar@gmail.com" target="_blank">
     <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="30" width="30" />
   </a>
-  <a href="http://discordapp.com/users/1010416185675874385" target="_blank">
+  <a href="https://discordapp.com/users/1010416185675874385" target="_blank">
     <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/vaiman/" target="_blank">
