@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=vai-man" />
 
-<h2>Hi there! I am Vaibhav Manihar (aka VaiMan)</h2>
+<h2>Hi there! I am Vaibhav Manihar, aka VaiMan (or sometimes Meteor)</h2>
 
 I’m passionate about building innovative solutions, with a strong focus on `competitive programming` and `software development`. I love solving complex problems and building projects that make a difference. I enjoy collaborating with like-minded individuals and contributing to open-source development.
 
