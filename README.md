@@ -17,6 +17,9 @@ I’m passionate about building innovative solutions, with a strong focus on `co
     <img src="https://github.com/user-attachments/assets/32aa4029-3b38-4306-8a09-00903be67437" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
+<a href="https://u8views.com/github/Vai-Man">
+  <img src="https://u8views.com/api/v1/github/profiles/145927299/views/day-week-month-total-count.svg" width="0" height="0" style="visibility:hidden; position:absolute;" />
+</a>
 <!---
 Vai-Man/Vai-Man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
