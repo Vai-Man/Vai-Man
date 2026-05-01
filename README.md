@@ -1,13 +1,13 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=vai-man&style=flat-square" />
 
-<h2>Vaibhav Manihar (VaiMan | Meteor)</h2>
+## Vaibhav Manihar (VaiMan | Meteor)
 
 <p>
 I enjoy breaking down complex problems, designing efficient solutions, and turning ideas into working systems.
 Open source, collaboration, and continuous learning drive most of what I do.
 </p>
 
-<h3>Currently exploring</h3>
+### Currently exploring:
 
 <p>
 Scaling systems • Distributed systems • Cloud infrastructure • Product thinking
