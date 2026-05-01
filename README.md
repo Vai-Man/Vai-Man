@@ -18,6 +18,14 @@ Scaling systems • Distributed systems • Cloud infrastructure • Product thi
 <a href="https://discordapp.com/users/1010416185675874385"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg?color=white" height="26"/></a>
 <a href="https://www.linkedin.com/in/vaiman/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=white" height="26"/></a>
 </p>
+
+<!-- hidden analytics -->
+<a href="https://u8views.com/github/Vai-Man">
+  <img src="https://u8views.com/api/v1/github/profiles/145927299/views/day-week-month-total-count.svg"
+       width="0"
+       height="0"
+       style="visibility:hidden; position:absolute;" />
+</a>
 <!---
 Vai-Man/Vai-Man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
